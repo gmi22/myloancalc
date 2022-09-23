@@ -8,6 +8,8 @@ https://web-production-f3b9.up.railway.app/
 
 ### Primary Language
 
+Python
+
 Javascript
 
 HTML
